@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NBP</string>
+    <string name="table_menu">Table</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="table_label">Table:&#160;</string>
+    <string name="effective_date_label">Effective date:&#160;</string>
+    <string name="trading_date_label">Trading date:&#160;</string>
+    <string name="currency_title">Currency:&#160;</string>
+    <string name="currency_code">Code:&#160;</string>
+    <string name="currency_bid_value">Bid value:&#160;</string>
+    <string name="currency_mid_value">Mid value:&#160;</string>
+    <string name="currency_ask_value">Ask value:&#160;</string>
+</resources>
